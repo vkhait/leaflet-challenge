@@ -23,6 +23,7 @@ The data markers reflect the magnitude of the earthquake by their size and the d
 
 I included popups that provide additional information about the earthquake when its associated marker is clicked. The information the pop up provides is the magnitude of the eartquake and the location.
 I created a legend that will provides context for the map data, for the legend I used the depth parameter that defines the color of the markers.
+<img width="1377" alt="Screenshot 2023-05-17 at 18 14 32" src="https://github.com/vkhait/leaflet-challenge/assets/121869014/defd2233-0132-44f8-87c7-aec3f8b175d6">
 
 
 
